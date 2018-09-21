@@ -1,2 +1,2 @@
 # PPNovel
-有个小说App项目
+一个小说App项目
